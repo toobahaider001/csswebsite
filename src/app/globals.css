@@ -36,18 +36,19 @@ html, body {
     }
     .link{
         text-decoration: none;
-        color: black;   
-        display: none;
+        color: black;  
+        font-size: 10px; 
         
     }
     .button{
         background-color: black;
-        height: 40px;
+        height: 20px;
         border-radius: 5px;
-        width: 100px;
+        width: 50px;
         color: white;
         border: none;
         text-align: center;
+        font-size: 10px;
     }
     .hero{
         background-color: #F4F6F5;
